@@ -1,2 +1,7 @@
-# udemy-pythonbeginner
-とにかくやってみよう! Kaggleグランドマスターが教える 参加型 超かんたんPython入門のgithubです。
+# プログラミング初心者でもとにかくやってみよう! Kaggleグランドマスターが教える 参加型 超かんたんPython入門
+
+
+
+
+
+
