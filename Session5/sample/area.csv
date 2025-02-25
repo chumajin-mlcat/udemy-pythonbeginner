@@ -1,14 +1,11 @@
 Country Name,Area
 Afghanistan,Asia
-Africa Eastern and Southern,No area
-Africa Western and Central,No area
 Albania,Europe
 Algeria,Africa
 American Samoa,Oceania
 Andorra,Europe
 Angola,Africa
 Antigua and Barbuda,North America
-Arab World,No area
 Argentina,South America
 Armenia,Asia
 Aruba,North America
@@ -38,10 +35,8 @@ Cabo Verde,Africa
 Cambodia,Asia
 Cameroon,Africa
 Canada,North America
-Caribbean small states,No area
 Cayman Islands,North America
 Central African Republic,Africa
-Central Europe and the Baltics,No area
 Chad,Africa
 Channel Islands,Europe
 Chile,South America
@@ -61,10 +56,6 @@ Denmark,Europe
 Djibouti,Africa
 Dominica,North America
 Dominican Republic,North America
-Early-demographic dividend,No area
-East Asia & Pacific,No area
-East Asia & Pacific (excluding high income),No area
-East Asia & Pacific (IDA & IBRD countries),No area
 Ecuador,South America
 "Egypt, Arab Rep.",Africa
 El Salvador,North America
@@ -73,15 +64,9 @@ Eritrea,Africa
 Estonia,Europe
 Eswatini,Africa
 Ethiopia,Africa
-Euro area,No area
-Europe & Central Asia,No area
-Europe & Central Asia (excluding high income),No area
-Europe & Central Asia (IDA & IBRD countries),No area
-European Union,No area
 Faroe Islands,Europe
 Fiji,Oceania
 Finland,Europe
-Fragile and conflict affected situations,No area
 France,Europe
 French Polynesia,Oceania
 Gabon,Africa
@@ -99,17 +84,10 @@ Guinea,Africa
 Guinea-Bissau,Africa
 Guyana,South America
 Haiti,North America
-Heavily indebted poor countries (HIPC),No area
-High income,No area
 Honduras,North America
 "Hong Kong SAR, China",Asia
 Hungary,Europe
-IBRD only,No area
 Iceland,Europe
-IDA & IBRD total,No area
-IDA blend,No area
-IDA only,No area
-IDA total,No area
 India,Asia
 Indonesia,Asia
 "Iran, Islamic Rep.",Asia
@@ -130,21 +108,13 @@ Kosovo,Europe
 Kuwait,Asia
 Kyrgyz Republic,Asia
 Lao PDR,Asia
-Late-demographic dividend,No area
-Latin America & Caribbean,No area
-Latin America & Caribbean (excluding high income),No area
-Latin America & the Caribbean (IDA & IBRD countries),No area
 Latvia,Europe
-Least developed countries: UN classification,No area
 Lebanon,Asia
 Lesotho,Africa
 Liberia,Africa
 Libya,Africa
 Liechtenstein,Europe
 Lithuania,Europe
-Low & middle income,No area
-Low income,No area
-Lower middle income,No area
 Luxembourg,Europe
 "Macao SAR, China",Asia
 Madagascar,Africa
@@ -158,10 +128,6 @@ Mauritania,Africa
 Mauritius,Africa
 Mexico,North America
 "Micronesia, Fed. Sts.",Oceania
-Middle East & North Africa,No area
-Middle East & North Africa (excluding high income),No area
-Middle East & North Africa (IDA & IBRD countries),No area
-Middle income,No area
 Moldova,Europe
 Monaco,Europe
 Mongolia,Asia
@@ -178,14 +144,10 @@ New Zealand,Oceania
 Nicaragua,North America
 Niger,Africa
 Nigeria,Africa
-North America,No area
 North Macedonia,Europe
 Northern Mariana Islands,Oceania
 Norway,Europe
-OECD members,No area
 Oman,Asia
-Other small states,No area
-Pacific island small states,No area
 Pakistan,Asia
 Palau,Oceania
 Panama,North America
@@ -195,8 +157,6 @@ Peru,South America
 Philippines,Asia
 Poland,Europe
 Portugal,Europe
-Post-demographic dividend,No area
-Pre-demographic dividend,No area
 Puerto Rico,North America
 Qatar,Asia
 Romania,Europe
@@ -214,12 +174,9 @@ Singapore,Asia
 Sint Maarten (Dutch part),North America
 Slovak Republic,Europe
 Slovenia,Europe
-Small states,No area
 Solomon Islands,Oceania
 Somalia,Africa
 South Africa,Africa
-South Asia,No area
-South Asia (IDA & IBRD),No area
 South Sudan,Africa
 Spain,Europe
 Sri Lanka,Asia
@@ -227,9 +184,6 @@ St. Kitts and Nevis,North America
 St. Lucia,North America
 St. Martin (French part),North America
 St. Vincent and the Grenadines,North America
-Sub-Saharan Africa,No area
-Sub-Saharan Africa (excluding high income),No area
-Sub-Saharan Africa (IDA & IBRD countries),No area
 Sudan,Africa
 Suriname,South America
 Sweden,Europe
@@ -252,7 +206,6 @@ Ukraine,Europe
 United Arab Emirates,Asia
 United Kingdom,Europe
 United States,North America
-Upper middle income,No area
 Uruguay,South America
 Uzbekistan,Asia
 Vanuatu,Oceania
@@ -260,7 +213,6 @@ Vanuatu,Oceania
 Viet Nam,Asia
 Virgin Islands (U.S.),North America
 West Bank and Gaza,Asia
-World,No area
 "Yemen, Rep.",Asia
 Zambia,Africa
 Zimbabwe,Africa
